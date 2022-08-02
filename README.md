@@ -3,7 +3,7 @@
 - 🔭I'm working on the front end with bootstrap, javascript and react, among many other things, on the back end I work with python using django and flask, although I still really like PHP ❤️❤️❤️
 - 🌱 I’m currently learning 🧠 Neural networks and especially deep learning
 - 👯 I’m looking to collaborate on projects that really help people, not only in monetary matters
-- 📫 How to reach me by mobile phone: +55 11 99681 6346 
+- 📱 How to reach me by mobile phone: +55 11 99681 6346 
 
 
 <div style="display: inline_block"><br>
