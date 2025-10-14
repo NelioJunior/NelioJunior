@@ -1,4 +1,4 @@
-## Hi there 👋  I'm Nelio Junior, a coder who thinks he's really creative! 🧑‍💻
+## Hi there 👋  I'm Nelio Junior, a software engineer who thinks he's really creative! 🧑‍💻
 
 - 🛠️I'm working on the front end with bootstrap, javascript and react, among many other things, on the back end I work with python using django and flask, although I still really like PHP ❤️❤️❤️
 - 🌱 I’m currently learning 🧠 Neural networks and especially deep learning
